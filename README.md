@@ -12,3 +12,9 @@ The CSS has been optimized and consolidated to remove unnecessary lines of code,
 Any significant changes have been explained in comments on the CSS, which should ensure the code is easily navigated.
 
 This was a useful activity to see a working website and work to try and consolidate and improve the code behind it, whilst keeping all design and creative elements intact.
+
+The deployed code is accessible here: https://github.com/dylanadams98/semantic-refactoring-project
+
+The deployed page is accessible here: https://dylanadams98.github.io/semantic-refactoring-project/
+
+![Alt text](assets/images/Screenshot%202023-04-05%20at%2019.10.20.png)
